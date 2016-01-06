@@ -1,7 +1,8 @@
-<p>Coursera Machine Learning Programming Assignment</p>
+Coursera Machine Learning Programming Assignment
+-------
 
-Andrew Ng<br>
-Platform: Matlab 2012a<br>
+This course is delivered by Andrew Ng<br>
+Platform: Matlab R2012a<br>
 All implementations have been vectorized<br>
 <br>
 Assignments
