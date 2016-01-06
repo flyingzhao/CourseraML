@@ -3,7 +3,7 @@ Coursera Machine Learning Programming Assignment
 
 This course is delivered by Andrew Ng<br>
 Platform: Matlab R2012a<br>
-All implementations have been vectorized<br>
+<strong>All implementations have been vectorized</strong><br>
 <br>
 Assignments
 -------
